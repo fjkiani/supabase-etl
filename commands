@@ -1,0 +1,5 @@
+mkdir -p fetch_analytics/data/raw
+mkdir -p fetch_analytics/sql/schema
+mkdir -p fetch_analytics/sql/queries
+mkdir -p fetch_analytics/analysis
+mkdir -p fetch_analytics/docs 

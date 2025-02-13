@@ -2,7 +2,7 @@
 Generated on [2/13/2025]
 
 ## Data Quality 
-(Space in SQL was limited, so data may not be as accurate as it could be since JSON consisted of thousands of colums. About 5000 rows were added)
+(Space in SQL was limited, so data may not be as accurate as it could be since JSON consisted of thousands of columns. About 5000 rows were added)
 - Total Receipts Processed: 470
 - Total Items Processed: 5,802
 - Average Items per Receipt: 12.3

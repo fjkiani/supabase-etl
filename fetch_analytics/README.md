@@ -29,4 +29,4 @@ Analysis of receipt processing data for Fetch Rewards, focusing on user shopping
 - Stakeholder communications
 
 ## Key Findings
-[To be completed after analysis] 
+Found in docs under technical_analysis.md, stakeholder_communication_md and more 
